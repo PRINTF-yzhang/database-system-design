@@ -1,8 +1,3 @@
-/*
-Ying Zhang 
-CS 3431
-Assignment 1
-*/
 drop table Reservation
 drop sequence reservationID_seq
 drop table Cruise
