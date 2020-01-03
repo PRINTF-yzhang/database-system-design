@@ -1,9 +1,3 @@
-/*
-Ying Zhang 
-CS 3431
-Assignment 2
-*/
-
 drop table Reservation;
 drop table Cruise;
 drop table Customer;
